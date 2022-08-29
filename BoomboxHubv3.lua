@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync('https://riptxde.dev/u/BoomboxHubV3.lua'))()
